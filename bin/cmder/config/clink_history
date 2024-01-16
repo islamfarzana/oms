@@ -1,0 +1,36 @@
+|CTAG_1663167284_18455859_4204_0
+node -v
+|ode
+|ode
+node
+|hp artisan serve
+|hp artisan serve
+|pm run dev
+|omposer install
+|pm run dev
+npm i
+|pm run dev
+npm run dev
+git clone https://github.com/islamfarzana/islamfarzana.git
+git push origin main
+|hp artisan serve
+|hp artisan migrate
+|omposer install
+|omposer install --ignore-platform-req
+composer install --ignore-platform-req=php
+php artisan migrate
+composer install --ignore-platform-req
+|omposer install --ignore-platform-reqs
+|omposer install --ignore-platform-reqs
+|hp artisan serve
+eita hobe na, php r ei package gulo outdated hoye gese
+|omposer install --ignore-platform-reqs
+composer update
+|hp artisan serve
+|hp artisan serve
+|hp artisan serve
+composer install
+|omposer install --ignore-platform-reqs
+composer install --ignore-platform-reqs
+|hp artisan serve
+php artisan serve
